@@ -42,7 +42,7 @@
 //!
 //! The following is the complete list of the feature flags available.
 //!
-//! * `bytes`: Rnables using the types `Bytes` and `BytesMut` from the
+//! * `bytes`: Enables using the types `Bytes` and `BytesMut` from the
 //!    [bytes](https://github.com/tokio-rs/bytes) crate as octet sequences.
 //! * `chrono`: Adds the [chrono](https://github.com/chronotope/chrono)
 //!   crate as a dependency. This adds support for generating serial numbers
